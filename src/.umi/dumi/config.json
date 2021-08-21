@@ -1,0 +1,106 @@
+{
+  "menus": {
+    "en-US": {
+      "*": [
+        {
+          "path": "/",
+          "title": "rc-tree",
+          "meta": {}
+        },
+        {
+          "path": "/changelog",
+          "title": "Changelog",
+          "meta": {}
+        },
+        {
+          "title": "Demo",
+          "path": "/demo",
+          "meta": {},
+          "children": [
+            {
+              "path": "/demo/animation",
+              "title": "animation",
+              "meta": {}
+            },
+            {
+              "path": "/demo/animation-draggable",
+              "title": "animation-draggable",
+              "meta": {}
+            },
+            {
+              "path": "/demo/basic",
+              "title": "basic",
+              "meta": {}
+            },
+            {
+              "path": "/demo/basic-controlled",
+              "title": "basic-controlled",
+              "meta": {}
+            },
+            {
+              "path": "/demo/big-data",
+              "title": "big-data",
+              "meta": {}
+            },
+            {
+              "path": "/demo/contextmenu",
+              "title": "contextmenu",
+              "meta": {}
+            },
+            {
+              "path": "/demo/custom-switch-icon",
+              "title": "custom-switch-icon",
+              "meta": {}
+            },
+            {
+              "path": "/demo/draggable",
+              "title": "draggable",
+              "meta": {}
+            },
+            {
+              "path": "/demo/draggable-allow-drop",
+              "title": "draggable-allow-drop",
+              "meta": {}
+            },
+            {
+              "path": "/demo/dropdown",
+              "title": "dropdown",
+              "meta": {}
+            },
+            {
+              "path": "/demo/dynamic",
+              "title": "dynamic",
+              "meta": {}
+            },
+            {
+              "path": "/demo/funtion-title",
+              "title": "funtionTitle",
+              "meta": {}
+            },
+            {
+              "path": "/demo/icon",
+              "title": "icon",
+              "meta": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "locales": [
+    {
+      "name": "en-US",
+      "label": "English"
+    }
+  ],
+  "navs": {},
+  "title": "rc-tree",
+  "logo": "https://avatars0.githubusercontent.com/u/9441414?s=200&v=4",
+  "mode": "doc",
+  "repository": {
+    "url": "https://github.com/react-component/tree",
+    "branch": "master"
+  },
+  "theme": {},
+  "exportStatic": {}
+}

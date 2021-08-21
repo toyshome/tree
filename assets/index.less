@@ -225,4 +225,18 @@
     width: 16px;
     display: inline-block;
   }
+  &-show-selected {
+    display: flex;
+
+    .@{treePrefixCls} {
+      &-selected-item {
+        display: flex;
+        justify-content: space-between;
+      }
+
+      &-selected-wrapper, &-list {
+        flex: 1;
+      }
+    }
+  }
 }
